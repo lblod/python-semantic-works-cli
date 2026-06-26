@@ -3,7 +3,7 @@
 Provides a base docker image to be used in [mu cli](https://github.com/mu-semtech/mu-cli) scripts. 
 The main benefit over using the base python image is not having to install the dependencies each time the script is ran. See the [requirements](requirements.txt) file for which dependencies are installed.
 
-** Courtesy to @Mirdono
+*Courtesy to @Mirdono*
 
 
 ## Usage for project scripts
