@@ -1,0 +1,8 @@
+[project]
+name = "python-semantic-works-cli"
+version = "1.0.0"
+dependencies = [
+    "Jinja2==3.1.6",
+    "rdflib==7.6.0",
+    "SPARQLWrapper==2.0.0",
+]
